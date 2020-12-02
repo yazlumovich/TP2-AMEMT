@@ -1,0 +1,80 @@
+.bg-lightpinkk{
+    background-color: mistyrose;
+} 
+
+.bg-grey{
+    background-color: lightgray;
+}
+
+.row{
+    display: flex;
+}
+
+.container{
+    justify-content: center;
+
+}
+
+.footer{
+    width: 100%;
+    height: 220px;
+    justify-content: space-evenly;
+
+}
+
+h1{
+    background-color: #f1dabd;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px gray;
+    text-align: center;
+
+}
+
+
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    color: hotpink;
+    background-color: lightpink;
+}
+
+.card{
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+      transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  padding: 14px 80px 18px 36px;
+  cursor: pointer;
+}
+
+.card:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+h3{
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    cursor: pointer;
+}
+
+h5{
+    color: indianred;
+}
+
+
+
