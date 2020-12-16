@@ -76,5 +76,31 @@ h5{
     color: indianred;
 }
 
+.cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+    background-color: greenyellow;
+}
+.card-animales{
+    width: 20%;
+    height: 200px;
+    background-color: pink;
+    border: 1px solid black;
+    padding: 20px;
+}
+.tabla{
+    width: 100%;
+    text-align: center;
+    border: 4px solid palevioletred; 
+}
+.estilo{
+    border:2px solid pink;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
 
 
